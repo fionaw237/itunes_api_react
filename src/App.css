@@ -30,3 +30,31 @@
     transform: rotate(360deg);
   }
 }
+/*
+.song{
+  display:flex;
+}*/
+
+.main-container{
+  padding:30px;
+  background-color: lightgray
+}
+
+.song{
+  margin:10px;
+}
+
+.songs-list{
+  border: 1px solid green;
+  border-radius: 20px;
+  padding:50px;
+}
+
+.song-image{
+  width: 100px;
+  display:block;
+}
+
+.main-heading{
+  text-align: center;
+}
